@@ -1,7 +1,7 @@
 # minihack
 
 # APP APK FILE LINK
-# https://drive.google.com/open?id=16f6cf6af9YMVhSPcbHlAyHiSDqgCGzcz
+# https://drive.google.com/drive/folders/16f6cf6af9YMVhSPcbHlAyHiSDqgCGzcz?usp=sharing
 
 A new Flutter project.
 
