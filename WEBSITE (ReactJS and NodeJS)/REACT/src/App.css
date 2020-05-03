@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.header {
+  color: white;
+  font-family: 'Staatliches', cursive;
+  background: linear-gradient(to right,#2196f3,#00b0ff);
+}
+
+h4 {
+  font-family: 'Staatliches', cursive;
+}
+.navbar {
+  background: linear-gradient(to right,#2196f3,#00b0ff);
+  position: relative;
+  left: 33%;
+  width: 500px;
+}

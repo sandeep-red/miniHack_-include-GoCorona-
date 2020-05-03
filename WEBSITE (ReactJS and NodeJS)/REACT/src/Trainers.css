@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.photo img{
+width:205px;
+height: 235px;
+padding: 5px;
+border: 4px solid #2196f3;
+}
+.border{
+    border: 0.5px solid black;
+    margin: 150px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.mainbox{
+display: flex;
+margin: 20px;  
+color: lightgray;
+}
+.details span:nth-child(1){
+    margin-left: 50px;
+    font-size: 50px;
+font-weight: bold;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.details span:nth-child(n+4){
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.details span:nth-child(2){
+    margin-left: 500px;
+    font-size: 50px;
+font-weight: bold;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.homebox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imbox {
+    display: flex;
+}
+
+.paybox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.paybox img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
